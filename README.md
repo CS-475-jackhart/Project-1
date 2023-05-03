@@ -6,6 +6,8 @@ Clearly, this is very parallelizable -- it is the same computation being run on 
 
 ## The Scenario
 
+![alt text](https://web.engr.oregonstate.edu/~mjb/cs575/Projects/drill.jpg "")
+
 A top plate has 3 pins in it which must fit into a bottom plate with 3 holes in it. The pin locations are defined as :
 Pin	X	Y	Radius
 A	3.0	4.0	2.0
